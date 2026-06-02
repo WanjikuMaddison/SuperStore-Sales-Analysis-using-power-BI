@@ -1,2 +1,5 @@
 # SuperStore-Sales-Analysis-using-power-BI
 This Power BI analysis was conducted to examine sales performance, customer purchasing behavior, and product trends using an interactive dashboard. A data model was created using the available sales dataset, and calculated columns such as Total Revenue and Discount Percentage were developed to support deeper analysis.
+Several visualizations were created to provide business insights, including a line chart showing monthly sales trends, a matrix table displaying sales by customer and product category, and slicers for filtering data by year and product category. A date hierarchy consisting of Year, Quarter, and Month was also created to allow users to drill down into time-based performance.
+
+The analysis enabled the identification of revenue patterns, customer sales distribution, and category-level performance. Interactive filtering made it easier to compare results across different periods and product groups. Overall, the Power BI dashboard provides a clear and user-friendly approach to monitoring sales performance and supports data-driven business decision-making.
